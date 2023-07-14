@@ -5,4 +5,4 @@
 * Выполнять класные бизнес проекты :chart_with_upwards_trend:
 * Писать чистый, читабельный код :100:
 ### :heavy_check_mark: Мой стек технологий
-<img height="32" width="32" src="https://cdn.simpleicons.org/html5/#E34F26" /> <img height="32" width="32" src="https://cdn.simpleicons.org/css3/#1572B6" /> <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/#F7DF1E/#000" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/html5/#E34F26" /> <img height="32" width="32" src="https://cdn.simpleicons.org/css3/#1572B6" /> <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
